@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+out/
+# never commit photos
+*.DNG
+*.dng
+*.JPG
+*.jpg
+*.SCR
+*.THM
+*.swp
